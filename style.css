@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #fff3d1;
 }
 
 nav {
@@ -21,16 +21,16 @@ nav {
 
 .company-name a {
     color: #000;
-    font-family: "Roboto Flex";
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-family: "georgia";
+    font-size: 1.3rem;
+    font-weight: 800;
     letter-spacing: -0.1rem;
     margin-right: 1em;
 }
 
 nav a {
     color: #000;
-    font-family: "Work Sans";
+    font-family: "serif";
     font-size: 1rem;
     font-weight: 500;
     letter-spacing: -0.05rem;
@@ -68,7 +68,7 @@ nav a {
 
     hr {
         margin: 1rem;
-        border-color: rgb(1, 1, 1);
+        border-color: rgb(60, 60, 60);
     }
 
     .navbar {
@@ -78,7 +78,7 @@ nav a {
     .topnavmobile {
         display: block;
         overflow: hidden;
-        background-color: hsl(0, 0%, 95%);
+        background-color:#fff3d1;
         position: sticky;
         top: 0;
         z-index: 1000;
@@ -90,7 +90,7 @@ nav a {
         font-size: 0.8rem;
         display: block;
         color: #000;
-        font-family: "Work Sans";
+        font-family: "serif";
         font-weight: 400;
         text-transform: uppercase;
     }
@@ -112,6 +112,238 @@ nav a {
         letter-spacing: -0.08rem;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 390px) {
+  .navbar {
+      display: none;
+  }
+}
+
+
+.herotext {
+    display: inline-flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 2rem 1rem;
+  }
+
+  .herotext h1 {
+    color: #000;
+font-family: "Roboto Flex";
+font-size: 5vw;
+font-style: normal;
+font-weight: 750;
+letter-spacing: 0.03rem;
+line-height: 90%;
+margin-left: 8%;
+
+  }
+  
+  .herotext h3 {
+    color: #000;
+font-family: "DM Sans";
+font-size: 3vw;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.015rem;
+margin-left: 8%;
+margin-top: 8%;
+}
+
+.text-image-container {
+display: flex;
+}
+
+.text-image-container  img {
+height: auto;
+width: 40vw;
+margin-top: 8%;
+margin-left: 5%;
+margin-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-image-container1 {
+    display: flex;
+    justify-content: space-between; /* Ensures space between text and image */
+    align-items: center; /* Aligns items vertically */
+    padding: 20px; /* Optional: adjust padding as needed */
+}
+
+.herotext1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2rem 1rem;
+    max-width: 45vw; /* Limits the width of the text container */
+}
+
+.herotext1 h1 {
+    color: #000;
+    font-family: "Roboto Flex";
+    font-size: 5vw;
+    font-style: normal;
+    font-weight: 750;
+    letter-spacing: 0.03rem;
+    line-height: 90%;
+    margin-left: 5%;
+}
+
+.herotext1 h3 {
+    color: #000;
+    font-family: "DM Sans";
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.015rem;
+    margin-left: 5%;
+}
+
+.text-image-container1 img {
+    height: auto;
+    width: 50vw;
+    margin-top: 8%;
+    margin-left: 3%; /* Optional: adjust if needed */
+}
+
+
+
+
+
+
+/* Existing styles for the first section */
+.text-image-container1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.herotext1 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2rem 1rem;
+    max-width: 45vw;
+}
+
+.herotext1 h1 {
+    color: #000;
+    font-family: "Roboto Flex";
+    font-size: 5vw;
+    font-style: normal;
+    font-weight: 750;
+    letter-spacing: 0.03rem;
+    line-height: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+}
+
+.herotext1 h3 {
+    color: #000;
+    font-family: "DM Sans";
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.015rem;
+    margin-left: 5%;
+}
+
+.text-image-container1 img {
+    height: auto;
+    width: 50vw;
+    margin-top: 8%;
+    margin-left: 3%;
+}
+
+/* New styles for the second section */
+.text-image-container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.herotext2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 2rem 1rem;
+    max-width: 45vw;
+}
+
+.herotext2 h1 {
+    color: #000;
+    font-family: "Roboto Flex";
+    font-size: 5vw;
+    font-style: normal;
+    font-weight: 750;
+    letter-spacing: 0.03rem;
+    line-height: 90%;
+    margin-right: 5%; /* Adjusted for right alignment */
+    margin-left: 8%;
+    margin-bottom: 5%;
+}
+
+.herotext2 h3 {
+    color: #000;
+    font-family: "DM Sans";
+    font-size: 3vw;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.015rem;
+    margin-right: 10%; /* Adjusted for right alignment */
+    margin-left: 8%;
+    margin-top: 9%;
+}
+
+.text-image-container2 img {
+    height: auto;
+    width: 50vw;
+    margin-top: 3%;
+    margin-right: 3%; /* Adjusted for right alignment */
+    margin-left: 0%;
+    margin-bottom: 15%;
+}
+
+
+
+
 
 
 
