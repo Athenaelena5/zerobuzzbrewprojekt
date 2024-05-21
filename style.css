@@ -327,9 +327,9 @@ margin-right: 10%;
     font-weight: 400;
     line-height: normal;
     letter-spacing: -0.015rem;
-    margin-right: 10%; /* Adjusted for right alignment */
+    margin-right: 0%; /* Adjusted for right alignment */
     margin-left: 8%;
-    margin-top: 9%;
+    margin-top: 7%;
 }
 
 .text-image-container2 img {
@@ -351,6 +351,10 @@ margin-right: 10%;
 
 
 
+/* Apply rounded corners to all images */
+img {
+    border-radius: 100px; /* Adjust the value as needed */
+}
 
 
 
