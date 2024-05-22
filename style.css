@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #fff3d1;
+    background-color: #fff7e3;
 }
 
 
@@ -137,7 +137,7 @@ nav a {
     .topnavmobile {
         display: block;
         overflow: hidden;
-        background-color: #fff3d1;
+        background-color: #fff7e3;
         position: sticky;
         top: 0;
         z-index: 1000;
@@ -391,11 +391,6 @@ img {
 
 
 
-
-
-
-
-
 .review-list {
     margin: 0 auto;
     max-width: 600px;
@@ -404,7 +399,7 @@ img {
 }
 
 .review {
-    border: 1px solid #ccc;
+    border: 1px solid #ffdf8fa2;
     padding: 20px;
     margin-bottom: 20px;
 }
@@ -413,6 +408,7 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
 }
 
 .review-title {
@@ -441,11 +437,11 @@ img {
 
 
 .container {
-    width: 500px;
+    width: 510px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #f8d86e;
-    border-radius: 5px;
+    background-color: #f9e7ad;
+    border-radius: 6px;
     margin-top: 10%;
     margin-bottom: -20%;
 }
@@ -466,7 +462,7 @@ input[type="email"],
 textarea {
     width: 100%;
     padding: 8px;
-    border: 1px solid #df9595;
+    border: 1px solid #ffefef;
     border-radius: 4px;
     box-sizing: border-box;
 }
@@ -474,8 +470,8 @@ textarea {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #fbef89;
-    color: #faaaaa;
+    background-color: #fffbd4;
+    color: #393939;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -483,6 +479,6 @@ button {
 }
 
 button:hover {
-    background-color: #fef9c8;
+    background-color: #fffffb;
 }
 
