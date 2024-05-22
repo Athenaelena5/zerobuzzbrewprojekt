@@ -21,7 +21,7 @@ nav {
 
 .company-name a {
     color: #000;
-    font-family: "georgia";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 1.3rem;
     font-weight: 800;
     letter-spacing: -0.1rem;
@@ -30,7 +30,7 @@ nav {
 
 nav a {
     color: #000;
-    font-family: "serif";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 1rem;
     font-weight: 500;
     letter-spacing: -0.05rem;
@@ -107,7 +107,7 @@ nav a {
     .topnavmobile .active {
         font-size: 1.5rem;
         color: #000;
-        font-family: "Roboto Flex";
+        font-family: "Helvetica, Arial, sans-serif";
         font-weight: 700;
         letter-spacing: -0.08rem;
     }
@@ -115,6 +115,13 @@ nav a {
 
 
 
+.company-name a {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+nav a {
+    font-family: Helvetica, Arial, sans-serif;
+}
 
 
 
@@ -141,7 +148,7 @@ padding: 2rem 1rem;
 
   .herotext h1 {
     color: #000;
-font-family: "Roboto Flex";
+font-family: "Helvetica, Arial, sans-serif";
 font-size: 5vw;
 font-style: normal;
 font-weight: 750;
@@ -153,7 +160,7 @@ margin-left: 8%;
   
   .herotext h3 {
     color: #000;
-font-family: "DM Sans";
+font-family: "Helvetica, Arial, sans-serif";
 font-size: 3vw;
 font-style: normal;
 font-weight: 400;
@@ -181,20 +188,6 @@ margin-right: 10%;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .text-image-container1 {
     display: flex;
     justify-content: space-between; /* Ensures space between text and image */
@@ -212,7 +205,7 @@ margin-right: 10%;
 
 .herotext1 h1 {
     color: #000;
-    font-family: "Roboto Flex";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 5vw;
     font-style: normal;
     font-weight: 750;
@@ -223,7 +216,7 @@ margin-right: 10%;
 
 .herotext1 h3 {
     color: #000;
-    font-family: "DM Sans";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 3vw;
     font-style: normal;
     font-weight: 400;
@@ -262,7 +255,7 @@ margin-right: 10%;
 
 .herotext1 h1 {
     color: #000;
-    font-family: "Roboto Flex";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 5vw;
     font-style: normal;
     font-weight: 750;
@@ -274,7 +267,7 @@ margin-right: 10%;
 
 .herotext1 h3 {
     color: #000;
-    font-family: "DM Sans";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 3vw;
     font-style: normal;
     font-weight: 400;
@@ -308,7 +301,7 @@ margin-right: 10%;
 
 .herotext2 h1 {
     color: #000;
-    font-family: "Roboto Flex";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 5vw;
     font-style: normal;
     font-weight: 750;
@@ -321,7 +314,7 @@ margin-right: 10%;
 
 .herotext2 h3 {
     color: #000;
-    font-family: "DM Sans";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 3vw;
     font-style: normal;
     font-weight: 400;
@@ -345,28 +338,10 @@ margin-right: 10%;
 
 
 
-
-
-
-
-
-
 /* Apply rounded corners to all images */
 img {
-    border-radius: 100px; /* Adjust the value as needed */
+    border-radius: 50px; /* Adjust the value as needed */
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -382,7 +357,7 @@ img {
 
 .footer p {
     color: #585858;
-    font-family: "Work Sans";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 1rem;
     font-weight: 400;
     text-transform: uppercase;
@@ -390,7 +365,7 @@ img {
 
 .footer h4 {
     color: #383838;
-    font-family: "Work Sans";
+    font-family: "Helvetica, Arial, sans-serif";
     font-size: 2rem;
     font-weight: 400;
     text-transform: uppercase;
