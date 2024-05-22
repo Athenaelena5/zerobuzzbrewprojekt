@@ -307,7 +307,7 @@ nav a {
     line-height: 90%;
     margin-right: 5%;
     margin-left: 8%;
-    margin-bottom: -20%;
+    margin-bottom: -5%;
 }
 
 .herotext2 h3 {
@@ -321,8 +321,7 @@ nav a {
     margin-right: 15%;
     margin-left: 8%;
     margin-top: 10%;
-    margin-bottom: 50%;
-    margin-bottom: -20%;
+    margin-bottom: 30%;
 }
 
 .text-image-container2 img {
@@ -510,14 +509,14 @@ button:hover {
     margin-bottom: 10%;
 }
 
-.herotext2 {
+.herotext8 {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 1rem 0.75rem;
 }
 
-.herotext2 h1 {
+.herotext8 h1 {
     color: #000;
     font-family: "Helvetica";
     font-size: 4vw; 
@@ -530,7 +529,7 @@ button:hover {
     margin-right: 10%;
 }
 
-.herotext2 h3 {
+.herotext8 h3 {
     color: #000;
     font-family: "Helvetica";
     font-size: 2.3vw; 
