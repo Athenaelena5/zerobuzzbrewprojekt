@@ -255,7 +255,7 @@ nav a {
     font-weight: 750;
     letter-spacing: 0.03rem;
     line-height: 90%;
-    margin-left: 20%;
+    margin-left: 25%;
     margin-top: 30%;
 }
 
@@ -266,8 +266,8 @@ nav a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    letter-spacing: -0.015rem;
-    margin-left: 20%;
+    letter-spacing: -0.020rem;
+    margin-left: 25%;
     margin-top: 8%;
     margin-bottom: 15%;
 }
@@ -275,8 +275,8 @@ nav a {
 .text-image-container1 img {
     height: auto;
     width: 40vw; /* Reduced width */
-    margin-top: 8%;
-    margin-left: -20%;
+    margin-top: 10%;
+    margin-left: -5%;
 }
 
 .text-image-container2 {
@@ -285,7 +285,8 @@ nav a {
     align-items: center;
     padding: 1rem; /* Reduced padding */
     margin-left: 10%;
-    margin-top: 10%;
+    margin-top: 5%;
+    
 }
 
 .herotext2 {
@@ -306,7 +307,7 @@ nav a {
     line-height: 90%;
     margin-right: 5%;
     margin-left: 8%;
-    margin-bottom: 5%;
+    margin-bottom: -20%;
 }
 
 .herotext2 h3 {
@@ -319,14 +320,15 @@ nav a {
     letter-spacing: -0.015rem;
     margin-right: 15%;
     margin-left: 8%;
-    margin-top: 7%;
+    margin-top: 10%;
     margin-bottom: 50%;
+    margin-bottom: -20%;
 }
 
 .text-image-container2 img {
     height: auto;
     width: 40vw; /* Reduced width */
-    margin-top: 10%;
+    margin-top: 20%;
     margin-right: 3%;
     margin-left: 0%;
     margin-bottom: 40%;
@@ -481,4 +483,72 @@ button {
 button:hover {
     background-color: #fffffb;
 }
+
+
+
+
+
+
+
+
+.text-image-container5 {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.text-image-container5 div:first-child {
+    flex: 1;
+    text-align: center;
+}
+
+.text-image-container5 img {
+    height: auto;
+    width: 55vw; 
+    margin-top: 30%;
+    margin-left: 10%;
+    margin-right: 40%;
+    margin-bottom: 10%;
+}
+
+.herotext2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 0.75rem;
+}
+
+.herotext2 h1 {
+    color: #000;
+    font-family: "Helvetica";
+    font-size: 4vw; 
+    font-style: normal;
+    font-weight: 750;
+    letter-spacing: 0.03rem;
+    line-height: 90%;
+    margin-left: 3%;
+    margin-top: 55%;
+    margin-right: 10%;
+}
+
+.herotext2 h3 {
+    color: #000;
+    font-family: "Helvetica";
+    font-size: 2.3vw; 
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.015rem;
+    margin-left: 3%;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-bottom: 20%;
+}
+
+
+
+
+
+
+
+
 
