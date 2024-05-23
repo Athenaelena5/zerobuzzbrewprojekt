@@ -551,3 +551,67 @@ button:hover {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+.text-image-container9 {
+    display: flex;
+}
+
+.text-image-container9 img {
+    height: auto;
+    width: 30vw; /* Reduced width */
+    margin-top: 0%;
+    margin-left: 35%;
+    margin-right: 50%;
+}
+
+.text-image-container9 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem; /* Reduced padding */
+}
+
+.herotext9 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1rem 0.75rem; /* Reduced padding */
+    max-width: 45vw;
+    margin-top: 70%;
+}
+
+.herotext9 h1 {
+    color: #000;
+    font-family: "Helvetica";
+    font-size: 3.5vw; /* Reduced font size */
+    font-style: normal;
+    font-weight: 750;
+    letter-spacing: 0.03rem;
+    line-height: 90%;
+    margin-left: 25%;
+    margin-top: 80%;
+}
+
+.herotext9 h3 {
+    color: #000;
+    font-family: "Helvetica";
+    font-size: 2vw; /* Reduced font size */
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.020rem;
+    margin-left: 25%;
+    margin-top: 100%;
+    margin-bottom: 0%;
+}
