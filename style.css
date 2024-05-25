@@ -204,6 +204,7 @@ nav a {
     margin-left: 30%;
     margin-top: 20%;
     margin-right: 20%;
+    line-height: 130%;
 }
 
 .herotext h3 {
@@ -213,7 +214,8 @@ nav a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    letter-spacing: -0.015rem;
+    letter-spacing: -0.020rem;
+    line-height:150%;
     margin-left: 30%;
     margin-top: 5%;
     margin-right: 15%;
@@ -257,6 +259,7 @@ nav a {
     line-height: 90%;
     margin-left: 25%;
     margin-top: 30%;
+    line-height: 130%;
 }
 
 .herotext1 h3 {
@@ -270,6 +273,7 @@ nav a {
     margin-left: 25%;
     margin-top: 8%;
     margin-bottom: 15%;
+    line-height: 150%;
 }
 
 .text-image-container1 img {
@@ -284,7 +288,7 @@ nav a {
     justify-content: space-between;
     align-items: center;
     padding: 1rem; /* Reduced padding */
-    margin-left: 10%;
+    margin-left: 5%;
     margin-top: 5%;
     
 }
@@ -304,7 +308,7 @@ nav a {
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
-    line-height: 90%;
+    line-height: 50%;
     margin-right: 5%;
     margin-left: 8%;
     margin-bottom: -5%;
@@ -317,11 +321,13 @@ nav a {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    letter-spacing: -0.015rem;
+    letter-spacing: -0.020rem;
     margin-right: 15%;
     margin-left: 8%;
     margin-top: 10%;
     margin-bottom: 30%;
+    line-height: 150%;
+    margin-top: 17%;
 }
 
 .text-image-container2 img {
@@ -401,7 +407,7 @@ img {
 }
 
 .review {
-    border: 1px solid #ffdf8fa2;
+    border: 1px solid #000000a2;
     padding: 20px;
     margin-bottom: 20px;
 }
