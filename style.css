@@ -196,7 +196,7 @@ nav a {
 .herotext h1 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 3.5vw; /* Reduced font size */
+    font-size: 3vw; /* Reduced font size */
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
@@ -210,7 +210,7 @@ nav a {
 .herotext h3 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 2vw; /* Reduced font size */
+    font-size: 1.7vw; /* Reduced font size */
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -252,7 +252,7 @@ nav a {
 .herotext1 h1 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 3.5vw; /* Reduced font size */
+    font-size: 3vw; /* Reduced font size */
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
@@ -265,7 +265,7 @@ nav a {
 .herotext1 h3 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 2vw; /* Reduced font size */
+    font-size: 1.7vw; /* Reduced font size */
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -304,7 +304,7 @@ nav a {
 .herotext2 h1 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 3.5vw; /* Reduced font size */
+    font-size: 3vw; /* Reduced font size */
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
@@ -317,7 +317,7 @@ nav a {
 .herotext2 h3 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 2vw; /* Reduced font size */
+    font-size: 1.7vw; /* Reduced font size */
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -527,7 +527,7 @@ button:hover {
 .herotext8 h1 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 4vw; 
+    font-size: 3vw; 
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
@@ -540,7 +540,7 @@ button:hover {
 .herotext8 h3 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 2.3vw; 
+    font-size: 1.7vw; 
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -605,7 +605,7 @@ button:hover {
 .herotext9 h1 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 3.5vw; /* Reduced font size */
+    font-size: 3vw; /* Reduced font size */
     font-style: normal;
     font-weight: 750;
     letter-spacing: 0.03rem;
@@ -617,7 +617,7 @@ button:hover {
 .herotext9 h3 {
     color: #000;
     font-family: "Helvetica";
-    font-size: 2vw; /* Reduced font size */
+    font-size: 1.7vw; /* Reduced font size */
     font-style: normal;
     font-weight: 400;
     line-height: normal;
