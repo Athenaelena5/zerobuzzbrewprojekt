@@ -533,7 +533,7 @@ button:hover {
     letter-spacing: 0.03rem;
     line-height: 90%;
     margin-left: 3%;
-    margin-top: 55%;
+    margin-top: 70%;
     margin-right: 10%;
 }
 
@@ -548,7 +548,7 @@ button:hover {
     margin-left: 3%;
     margin-top: 5%;
     margin-right: 15%;
-    margin-bottom: 20%;
+    margin-bottom: 8%;
 
 }
 
@@ -626,3 +626,86 @@ button:hover {
     margin-top: 100%;
     margin-bottom: 0%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 1rem;
+}
+
+.beer-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.beer-item {
+    background-color: rgb(255, 253, 249);
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1rem;
+    text-align: center;
+    width: 200px;
+    margin-top: 8%;
+    margin-bottom: 2%;
+}
+
+.beer-item img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+h2 {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+p {
+    font-size: 1rem;
+    color: #333;
+}
+
+.buy-button {
+    background-color: #4CAF50;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 1rem 1rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1rem;
+    margin-top: 0.7rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.buy-button:hover {
+    background-color: #45a049;
+}
+
+
+/* CSS for screens wider than 900px */
+@media screen and (min-width: 800px) {
+    .beer-item {
+        width: calc(33.333% - 0.5rem);
+    }
+}
+
