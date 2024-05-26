@@ -220,6 +220,8 @@ nav a {
     margin-top: 5%;
     margin-right: 15%;
     margin-bottom: 20%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .text-image-container {
@@ -274,6 +276,8 @@ nav a {
     margin-top: 8%;
     margin-bottom: 15%;
     line-height: 150%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .text-image-container1 img {
@@ -328,6 +332,8 @@ nav a {
     margin-bottom: 30%;
     line-height: 150%;
     margin-top: 17%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .text-image-container2 img {
@@ -548,6 +554,8 @@ button:hover {
     margin-top: 5%;
     margin-right: 15%;
     margin-bottom: 20%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 
