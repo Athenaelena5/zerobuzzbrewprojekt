@@ -622,7 +622,12 @@ button:hover {
 
 
 
-
+.some {
+    width: 100px; /* Adjust the size as needed */
+    height: auto;
+    margin-left: 5px;
+    margin-top: -6%;
+}
 
 
 
@@ -909,48 +914,6 @@ p {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-.footer {
-    display: flex;
-    flex-direction: column;
-    font-size: 8rem;
-}
-
-.footer p {
-    color: #372222;
-    font-family: "Helvetica";
-    font-size: 1.3rem; /* Reduced font size */
-    font-weight: 400;
-    text-transform: uppercase;
-    margin-bottom: 10%;
-    margin-top: 5%;
-}
-
-.footer h4 {
-    color: #383838;
-    font-family: "Helvetica";
-    font-size: 2rem; /* Reduced font size */
-    font-weight: 400;
-    text-transform: uppercase;
-    font-size: 1rem;
-}
-
-.footer-rækker {
-    display: flex;
-    justify-content: space-around;
-    margin: 0 5% 3% 5%;
-    font-size: 2vw; /* Reduced font size */
-    margin-top: 30px;
-}
 
 
 
