@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: #fff7e3;
+    background-color: #ffffff;
 }
 
 
@@ -137,7 +137,7 @@ nav a {
     .topnavmobile {
         display: block;
         overflow: hidden;
-        background-color: #fff7e3;
+        background-color: #ffffff;
         position: sticky;
         top: 0;
         z-index: 1000;
@@ -148,14 +148,14 @@ nav a {
         text-decoration: none;
         font-size: 0.7rem; /* Reduced font size */
         display: block;
-        color: #000;
+        color: #ffb700;
         font-family: "Helvetica";
         font-weight: 400;
         text-transform: uppercase;
     }
 
     .topnavmobile a.icon {
-        background: rgba(0, 0, 0, 0);
+        background: rgb(255, 255, 255);
         display: block;
         position: absolute;
         right: 0;
