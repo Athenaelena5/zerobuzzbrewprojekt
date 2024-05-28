@@ -442,7 +442,7 @@ img {
     width: 510px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #00000090;
+    background-color: #50505090;
     border-radius: 6px;
     margin-top: 10%;
     margin-bottom: -20%;
@@ -464,7 +464,7 @@ input[type="email"],
 textarea {
     width: 100%;
     padding: 8px;
-    border: 1px solid #ffefef;
+    border: 1px solid #ffffff;
     border-radius: 4px;
     box-sizing: border-box;
 }
@@ -472,8 +472,8 @@ textarea {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #ebe5df87;
-    color: #393939;
+    background-color: #70707087;
+    color: #000000;
     border: none;
     border-radius: 4px;
     cursor: pointer;
@@ -1083,6 +1083,11 @@ button:hover {
 .review-author {
     margin-top: 10px;
     font-style: italic;
+}
+
+
+body {
+    background-color: #ffffff;
 }
 
 
