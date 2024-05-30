@@ -963,7 +963,7 @@ p {
 
 
 .container {
-    width: 480px;
+    width: 350px;
     margin: 0 auto;
     padding: 20px;
     background-color: #4d3114ca;
@@ -1012,7 +1012,7 @@ button:hover {
 
 .review-list {
     margin: 0 auto;
-    max-width: 500px;
+    max-width: 360px;
     margin-top: 30%;
     margin-bottom: 15%;
 }
